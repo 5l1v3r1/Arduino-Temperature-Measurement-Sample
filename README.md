@@ -1,1 +1,1 @@
-# Arduino-Temperature-Measurement-Sample
+# Arduino - Temperature Measurement Sample
